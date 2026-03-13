@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=FeraWM
+Comment=The FERAWM Window Manager
+Exec=ferawm-session
+Type=XSession
+DesktopNames=ferawm
